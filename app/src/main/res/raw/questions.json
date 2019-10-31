@@ -1,0 +1,43 @@
+[
+  {
+    "question" : "If you drink sprite right after eating a banana you will throw up",
+    "answer" : true
+  },
+  {
+    "question" : "I sit next to liam in comp sci",
+    "answer" : true
+  },
+  {
+    "question" : "Mt everest is 15,000 meters tall",
+    "answer" : false
+  },
+  {
+    "question" : "Eliud Kipchoge ran 1:59:40 for the Marathon on October 12th 2019",
+    "answer" : true
+  },
+  {
+    "question" : "Lots of students are stressed due to a large workload, phones, and a lack of sleep, but Mr Shorr's students are fine",
+    "answer" : true
+  },
+  {
+    "question" : "Liam does not enjoy running",
+    "answer" : true
+  },
+  {
+    "question" : "Me and Liam made Galaga for our final project last year",
+    "answer" : false
+  },
+  {
+    "question" : "10832482366 * 473027846382456 - 97326426 * 4327^-74368463756 = 42",
+    "answer" : true
+  },
+  {
+    "question" : "Based off of this political cartoon, how many years will it be until the airspeed velocity of Liam's bed reaches purple?",
+    "answer" : false
+  },
+  {
+    "question" : "The answer is false",
+    "answer" : true
+  }
+
+]

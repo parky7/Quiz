@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Quiz</string>
+    <string name="button_main_true">True</string>
+    <string name="button_main_false">False</string>
+    <string name="textview_main_questions">If you drink sprite right after eating a banana you will throw up</string>
+    <string name="play_again">Play Again</string>
+</resources>
