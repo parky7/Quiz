@@ -4,4 +4,6 @@
     <string name="button_main_false">False</string>
     <string name="textview_main_questions">If you drink sprite right after eating a banana you will throw up</string>
     <string name="play_again">Play Again</string>
+    <string name="scoreMessage2">out of 10</string>
+    <string name="scoreMessage1">Your score is</string>
 </resources>

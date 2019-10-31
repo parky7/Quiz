@@ -5,4 +5,6 @@
     <string name="button_main_true">Cierto</string>
     <string name="play_again">Juega de nueve</string>
     <string name="textview_main_questions">"Si bebes sprite justo después de comer un plátano, vomitarás "</string>
+    <string name="scoreMessage1">"Tu puntaje es "</string>
+    <string name="scoreMessage2">" de 10"</string>
 </resources>

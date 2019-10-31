@@ -15,15 +15,19 @@ public class EndActivity extends AppCompatActivity {
     private TextView textViewScore;
 
 
+
+
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_end);
 
         wireWidgets();
+        String scoreMessage1 = getString(R.string.scoreMessage1);
+        String scoreMessage2 = getString(R.string.scoreMessage2);
         Intent lastIntent = getIntent();
         score = lastIntent.getIntExtra(MainActivity.EXTRA_SCORE, -1);
-        textViewScore.setText("Your score is " + score + " out of 10");
+        textViewScore.setText(scoreMessage1 + score + scoreMessage2);
         setListoners();
     }
 
