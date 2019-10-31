@@ -1,0 +1,43 @@
+[
+  {
+    "question" : "Si bebes sprite justo después de comer un plátano, vomitarás\n",
+    "answer" : true
+  },
+  {
+    "question" : "Me siento al lado de liam en ciencias de la computación",
+    "answer" : true
+  },
+  {
+    "question" : "El monte everest tiene 15,000 metros de altura",
+    "answer" : false
+  },
+  {
+    "question" : "Eliud Kipchoge corrió 1:59:40 para el maratón del 12 de octubre de 2019",
+    "answer" : true
+  },
+  {
+    "question" : "Muchos estudiantes están estresados \u200B\u200Bdebido a una gran carga de trabajo, teléfonos y falta de sueño, pero los estudiantes del Sr. Shorr están bien.",
+    "answer" : true
+  },
+  {
+    "question" : "A Liam no le gusta correr",
+    "answer" : true
+  },
+  {
+    "question" : "Liam y yo hicimos Galaga para nuestro proyecto final el año pasado.",
+    "answer" : false
+  },
+  {
+    "question" : "10832482366 * 473027846382456 - 97326426 * 4327^-74368463756 = 42",
+    "answer" : true
+  },
+  {
+    "question" : "\nBasado en esta caricatura política, ¿cuántos años pasarán hasta que la velocidad de la velocidad del aire de la cama de Liam llegue a púrpura?",
+    "answer" : false
+  },
+  {
+    "question" : "La respuesta es falso",
+    "answer" : true
+  }
+
+]

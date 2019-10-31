@@ -74,7 +74,7 @@ public class MainActivity extends AppCompatActivity {
                 currentQuestion++;
                 if(currentQuestion == 10){
                     //go to end screen
-                    Intent scoreIntent = new Intent();
+                    Intent scoreIntent = new Intent(MainActivity.this, EndActivity.class);
                     scoreIntent.putExtra(EXTRA_SCORE, score);
                     startActivity(scoreIntent);
                     score = 0;

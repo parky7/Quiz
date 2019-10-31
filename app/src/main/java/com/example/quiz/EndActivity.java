@@ -37,6 +37,7 @@ public class EndActivity extends AppCompatActivity {
         buttonPlayAgain.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
+                finish();
 
             }
         });

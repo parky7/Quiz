@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Quiz</string>
+    <string name="button_main_false">Falso</string>
+    <string name="button_main_true">Cierto</string>
+    <string name="play_again">Juega de nueve</string>
+    <string name="textview_main_questions">"Si bebes sprite justo después de comer un plátano, vomitarás "</string>
+</resources>
